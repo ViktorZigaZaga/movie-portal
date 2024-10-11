@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.44d4c283.css",
-    "main.js": "/static/js/main.84db170c.js",
+    "main.js": "/static/js/main.80bc0945.js",
     "static/js/453.55b49851.chunk.js": "/static/js/453.55b49851.chunk.js",
     "static/css/245.68744171.chunk.css": "/static/css/245.68744171.chunk.css",
     "static/js/245.d229b7b8.chunk.js": "/static/js/245.d229b7b8.chunk.js",
     "static/css/807.68744171.chunk.css": "/static/css/807.68744171.chunk.css",
     "static/js/807.a5763edb.chunk.js": "/static/js/807.a5763edb.chunk.js",
     "static/js/78.13627ef4.chunk.js": "/static/js/78.13627ef4.chunk.js",
+    "static/media/default_user.svg": "/static/media/default_user.006d276254200a9c640b0009cb297e14.svg",
     "static/media/sun.svg": "/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
     "static/media/moon.svg": "/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
     "static/media/movie-camera-svgrepo-com.svg": "/static/media/movie-camera-svgrepo-com.49178c818dae5ae1b88d598e4af32bb0.svg",
@@ -16,7 +17,7 @@
     "static/media/35788-ffc107.svg": "/static/media/35788-ffc107.38246ecaf24b11f0d982fa742bcc8b91.svg",
     "index.html": "/index.html",
     "main.44d4c283.css.map": "/static/css/main.44d4c283.css.map",
-    "main.84db170c.js.map": "/static/js/main.84db170c.js.map",
+    "main.80bc0945.js.map": "/static/js/main.80bc0945.js.map",
     "453.55b49851.chunk.js.map": "/static/js/453.55b49851.chunk.js.map",
     "245.68744171.chunk.css.map": "/static/css/245.68744171.chunk.css.map",
     "245.d229b7b8.chunk.js.map": "/static/js/245.d229b7b8.chunk.js.map",
@@ -26,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.44d4c283.css",
-    "static/js/main.84db170c.js"
+    "static/js/main.80bc0945.js"
   ]
 }
